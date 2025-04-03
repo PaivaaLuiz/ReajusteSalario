@@ -52,7 +52,7 @@ public class Reajuste {
         System.out.println("");
         System.out.println("Novo salário (com aumento): " + novoSalario);
         System.out.println("");
-        System.out.println("Salário com descont da inflação: " + aumentoinflacao);
+        System.out.println("Salário com desconto da inflação: " + aumentoinflacao);
 
         scanner.close();
     }
